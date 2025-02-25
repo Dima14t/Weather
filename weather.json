@@ -1,0 +1,40 @@
+{
+  "Вторник, 25 февраля": {
+    "Ночь": {
+      "temperature": "0°",
+      "conditions": "Преимущественно облачно",
+      "feeling": "0°",
+      "probability": "2%",
+      "pressure": "767",
+      "wind_direction": "южный",
+      "wind_speed": "1.1"
+    },
+    "Утро": {
+      "temperature": "-2°",
+      "conditions": "Преимущественно облачно",
+      "feeling": "-2°",
+      "probability": "2%",
+      "pressure": "766",
+      "wind_direction": "южный",
+      "wind_speed": "3.4"
+    },
+    "День": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "0°",
+      "probability": "2%",
+      "pressure": "765",
+      "wind_direction": "южный",
+      "wind_speed": "1.7"
+    },
+    "Вечер": {
+      "temperature": "0°",
+      "conditions": "Пасмурно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "764",
+      "wind_direction": "южный",
+      "wind_speed": "1.6"
+    }
+  }
+}
