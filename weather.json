@@ -1,40 +1,154 @@
 {
-  "Вторник, 25 февраля": {
+  "Четверг, 27 февраля": {
     "Ночь": {
-      "temperature": "0°",
-      "conditions": "Преимущественно облачно",
-      "feeling": "0°",
-      "probability": "2%",
-      "pressure": "767",
-      "wind_direction": "южный",
-      "wind_speed": "1.1"
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "14%",
+      "pressure": "765",
+      "wind_direction": "юго-западный",
+      "wind_speed": "1.2"
     },
     "Утро": {
-      "temperature": "-2°",
-      "conditions": "Преимущественно облачно",
-      "feeling": "-2°",
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "14%",
+      "pressure": "765",
+      "wind_direction": "юго-западный",
+      "wind_speed": "1.2"
+    },
+    "День": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "14%",
+      "pressure": "765",
+      "wind_direction": "юго-западный",
+      "wind_speed": "1.2"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "14%",
+      "pressure": "765",
+      "wind_direction": "юго-западный",
+      "wind_speed": "1.2"
+    }
+  },
+  "Пятница, 28 февраля": {
+    "Ночь": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "0°",
       "probability": "2%",
       "pressure": "766",
       "wind_direction": "южный",
-      "wind_speed": "3.4"
+      "wind_speed": "1.6"
+    },
+    "Утро": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "0°",
+      "probability": "2%",
+      "pressure": "766",
+      "wind_direction": "южный",
+      "wind_speed": "1.6"
     },
     "День": {
       "temperature": "+2°",
       "conditions": "Пасмурно",
       "feeling": "0°",
       "probability": "2%",
-      "pressure": "765",
+      "pressure": "766",
+      "wind_direction": "южный",
+      "wind_speed": "1.6"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "0°",
+      "probability": "2%",
+      "pressure": "766",
+      "wind_direction": "южный",
+      "wind_speed": "1.6"
+    }
+  },
+  "Понедельник, 3 марта": {
+    "Ночь": {
+      "temperature": "+3°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "3%",
+      "pressure": "766",
+      "wind_direction": "юго-восточный",
+      "wind_speed": "1.4"
+    },
+    "Утро": {
+      "temperature": "+3°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "3%",
+      "pressure": "766",
+      "wind_direction": "юго-восточный",
+      "wind_speed": "1.4"
+    },
+    "День": {
+      "temperature": "+3°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "3%",
+      "pressure": "766",
+      "wind_direction": "юго-восточный",
+      "wind_speed": "1.4"
+    },
+    "Вечер": {
+      "temperature": "+3°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "3%",
+      "pressure": "766",
+      "wind_direction": "юго-восточный",
+      "wind_speed": "1.4"
+    }
+  },
+  "Вторник, 4 марта": {
+    "Ночь": {
+      "temperature": "+1°",
+      "conditions": "Преимущественно облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "766",
+      "wind_direction": "южный",
+      "wind_speed": "1.7"
+    },
+    "Утро": {
+      "temperature": "+1°",
+      "conditions": "Преимущественно облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "766",
+      "wind_direction": "южный",
+      "wind_speed": "1.7"
+    },
+    "День": {
+      "temperature": "+1°",
+      "conditions": "Преимущественно облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "766",
       "wind_direction": "южный",
       "wind_speed": "1.7"
     },
     "Вечер": {
-      "temperature": "0°",
-      "conditions": "Пасмурно",
+      "temperature": "+1°",
+      "conditions": "Преимущественно облачно",
       "feeling": "-1°",
       "probability": "2%",
-      "pressure": "764",
+      "pressure": "766",
       "wind_direction": "южный",
-      "wind_speed": "1.6"
+      "wind_speed": "1.7"
     }
   }
 }
